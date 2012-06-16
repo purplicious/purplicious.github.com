@@ -1,17 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Purplicious Cupcakes]]></title>
+  <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://purplicious.github.com/atom.xml" rel="self"/>
   <link href="http://purplicious.github.com/"/>
-  <updated>2012-06-16T14:38:00-07:00</updated>
+  <updated>2012-06-16T15:06:02-07:00</updated>
   <id>http://purplicious.github.com/</id>
   <author>
-    <name><![CDATA[Robin]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pina Colada Cupcakes]]></title>
+    <link href="http://purplicious.github.com/blog/2012/05/27/pina-colada-cupcakes/"/>
+    <updated>2012-05-27T00:00:00-07:00</updated>
+    <id>http://purplicious.github.com/blog/2012/05/27/pina-colada-cupcakes</id>
+    <content type="html"><![CDATA[<div>Quantity: unknown. I used this recipe to make a big top cupcake, but lets just guess that it would have made around 22 small top cupcakes.
+
+Cake Ingredients
+<ul>
+    <li>2 c flour</li>
+    <li>1 t baking soda</li>
+    <li>1 t baking powder</li>
+    <li>½ t salt</li>
+    <li>2 c shredded coconut</li>
+    <li>2/3 c coconut oil</li>
+    <li>½ c pineapple juice (from canned pineapple)</li>
+    <li>1 ½ c sugar</li>
+    <li>1 and 3/4 c coconut milk (1 can)</li>
+    <li>1/4 c soymilk</li>
+    <li>1 T vanilla extract</li>
+    <li>1 T apple cider vinegar</li>
+</ul>
+Cake Directions
+
+Melt oil in glass measuring cup in oven (or on stove using low heat if you don&#8217;t have a pyrex measuring cup). Add sugar, milks, vanilla, and pineapple juice to coconut oil and whisk to combine.
+
+Sift together the first 4 dry ingredients in a large bowl. Add the coconut.
+
+Add dry ingredients to wet, until incorporated. Add vinegar. Mix slightly and pour.
+
+Bake in a 350º oven for 24 minutes.
+
+Filling Ingredients
+<ul>
+    <li>1 can pineapple</li>
+    <li>½ c sugar</li>
+    <li>1/4 cup cornstarch</li>
+    <li>1 c pineapple juice (dilute with water if there&#8217;s not enough)</li>
+</ul>
+Filling Directions
+
+Stir together sugar, pineapple, and half of the juice in a saucepan over low heat. 
+
+In separate bowl, using a whisk or an immersion blender, blend the remaining juice with the cornstarch, and then add to the saucepan. 
+
+Cook over low heat, stirring occasionally, for 15 minutes or until very thick. Cool.
+
+Icing Ingredients
+<ul>
+    <li>½ c earth balance coconut spread</li>
+    <li>½ c palm shortening</li>
+    <li>1 t vanilla</li>
+    <li>½ cup coconut milk (use the part from the can that is thicker)</li>
+    <li>4 c powdered sugar</li>
+</ul>
+Icing Directions
+
+Beat together the earth balance, palm shortening, and coconut milk until fluffy.
+
+Add the confectioner’s sugar, sifting it in, and then beat until smooth and fluffy (~3 minutes).
+
+Add vanilla and beat for 3 more minutes.
+
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Blueberry cupcake experiment]]></title>
@@ -203,6 +271,58 @@ Jessica (like myself) is pretty good at drawing out the whole birthday thing to 
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Tropical Cupcakes]]></title>
+    <link href="http://purplicious.github.com/blog/2011/07/10/tropical-cupcakes/"/>
+    <updated>2011-07-10T00:00:00-07:00</updated>
+    <id>http://purplicious.github.com/blog/2011/07/10/tropical-cupcakes</id>
+    <content type="html"><![CDATA[<div>Quantity: unknown. I have never in my life multiplied a recipe by 6 before, so I have absolutely no clue how many cupcakes this recipe should make, but lets just guess around 22.
+
+Cake Ingredients
+<ul>
+    <li>2 c flour</li>
+    <li>1 t baking soda</li>
+    <li>1 t baking powder</li>
+    <li>½ t salt</li>
+    <li>2 c shredded coconut</li>
+    <li>2/3 c coconut oil</li>
+    <li>2 T lime zest</li>
+    <li>1 ½ c sugar</li>
+    <li>2 c coconut milk</li>
+    <li>½ c soymilk</li>
+    <li>1 T vanilla extract</li>
+</ul>
+Cake Directions
+
+Melt oil over low heat on stove. Add sugar, milks, vanilla, and lime zest. Whisk to combine.
+
+Sift together the first 4 dry ingredients in a large bowl. Add the coconut.
+
+Add dry ingredients to wet, until incorporated.
+
+Bake in a 350º oven for 24 minutes.
+
+Icing Ingredients
+<ul>
+    <li>½ c margarine (earth balance)</li>
+    <li>½ c palm shortening</li>
+    <li>1 t vanilla</li>
+    <li>1/4 cup lime juice</li>
+    <li>4 c powdered sugar</li>
+</ul>
+Icing Directions
+
+Beat together the margarine and palm shortening until fluffy.
+
+Add the confectioner’s sugar, sifting it in, and then beat until smooth and fluffy (~3 minutes).
+
+Add vanilla and lime juice and beat for 5-7 more minutes.
+
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Renegade Craft Fair Summer 2011]]></title>
     <link href="http://purplicious.github.com/blog/2011/07/10/renegade-craft-fair-summer-2011/"/>
     <updated>2011-07-10T00:00:00-07:00</updated>
@@ -214,6 +334,61 @@ Jessica (like myself) is pretty good at drawing out the whole birthday thing to 
 <p><a rel="attachment wp-att-933" href="http://ieatcupcakes.com/2011/07/10/renegade-craft-fair-summer-2011/sprinkle-cupcake/"><img class="alignnone size-medium wp-image-933" title="sprinkle cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/07/sprinkle-cupcake-429x510.jpg" alt="" width="429" height="510" /></a></p>
 
 <p><a rel="attachment wp-att-932" href="http://ieatcupcakes.com/2011/07/10/renegade-craft-fair-summer-2011/img_1240/"><img class="alignnone size-medium wp-image-932" title="IMG_1240" src="http://ieatcupcakes.com/wp-content/uploads/2011/07/IMG_1240-510x382.jpg" alt="" width="510" height="382" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Carrot Cupcakes Recipe]]></title>
+    <link href="http://purplicious.github.com/blog/2011/07/09/carrot-cupcakes-recipe/"/>
+    <updated>2011-07-09T00:00:00-07:00</updated>
+    <id>http://purplicious.github.com/blog/2011/07/09/carrot-cupcakes-recipe</id>
+    <content type="html"><![CDATA[<div>
+
+Quantity: This recipe (VCTOTW) claims to make 24 cupcakes, but it actually makes only 16 if you fill them high enough to make them worth a damn. So, I need to tweak this recipe a bit (darn, more carrot cupcakes in my future). When I get it perfect, I&#8217;ll replace this recipe with a better one.
+
+Cake Ingredients
+<ul>
+    <li>1½ c flour</li>
+    <li>1½ baking soda</li>
+    <li>1 t baking powder</li>
+    <li>½ t salt</li>
+    <li>½ t cinnamon</li>
+    <li>1/4 t nutmeg</li>
+    <li>1/4 t ginger</li>
+    <li>1 1/3 c sugar</li>
+    <li>8 oz vanilla wholesoy yogurt</li>
+    <li>2/3 c sunflower oil</li>
+    <li>1 T vanilla extract</li>
+    <li>2 c grated carrots (The recipe called for 1 cup, but my mommy always taught me when making carrot cake to double the amount of carrots it calls for because it makes them moister and healthier)</li>
+    <li>1 c walnuts</li>
+</ul>
+Cake Directions
+
+Sift together the first 7 dry ingredients in a large bowl.
+
+In a mixing bowl, mix together sugar, oil, yogurt, and vanilla.
+
+Add the dry ingredients to the wet slowly, and mix.
+
+Add grated carrots and mix until evenly coated. Add walnuts.
+
+Bake in a 350º oven for 24 minutes.
+
+Icing Ingredients
+<ul>
+    <li>½ c margarine</li>
+    <li>½ c tofutti</li>
+    <li>2 t vanilla</li>
+    <li>4 c powdered sugar</li>
+</ul>
+Icing Directions
+
+Beat together the margarine, cream cheese, and vanilla extract.
+
+Add the confectioner’s sugar, sifting it in, and then beat until smooth and fluffy.
+
+</div>
+
 ]]></content>
   </entry>
   
@@ -295,85 +470,6 @@ Jessica (like myself) is pretty good at drawing out the whole birthday thing to 
 
 <p><a href="http://ieatcupcakes.com/wp-content/uploads/2011/05/l_2048_1536_7F6C098C-C450-4725-BE28-ADA485CF80EE.jpeg"><img src="http://ieatcupcakes.com/wp-content/uploads/2011/05/l_2048_1536_7F6C098C-C450-4725-BE28-ADA485CF80EE.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a></p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ode to Maggie Mudd]]></title>
-    <link href="http://purplicious.github.com/blog/2011/05/23/ode-to-maggie-mudd/"/>
-    <updated>2011-05-23T00:00:00-07:00</updated>
-    <id>http://purplicious.github.com/blog/2011/05/23/ode-to-maggie-mudd</id>
-    <content type="html"><![CDATA[<p>These <a href="http://ieatcupcakes.com/mint-cookies-n-cream-cupcakes/">vegan mint cookies n cream cupcakes</a> are a Robin and Isabelle rendition of the cookies n cream cupcake recipe in Vegan Cupcakes Take Over the World (VCTOTW).  For those of you who had the pleasure of visiting Maggie Mudd before they decided to break the hearts of vegans all over the world (well, maybe just in the San Francisco bay area), you may know why the vegan mint cookies n cream ice cream flavor would entice someone to make a cupcake version of it. It&#8217;s basically amazing. And luckily, Colby had a birthday recently, and the exquisite Katie got him the raddest World of Warcraft ice cream cake ever from Maggie Mudd (yes, they haven&#8217;t completely sold us out&#8230;they are still offering ridiculously priced vegan ice cream cakes for you die-hard fans out there)! Instead of going into the details of the cake design being a timeline of all of Colby&#8217;s current and past WOW characters, I will instead describe the deliciousness that is the mint cookies n cream ice cream that was enveloped by a brownie crust and the most delicious whipped topping icing I have ever experienced (I must get more info on this stuff from Violet asap). So, in lieu of ordering a $2749674 cake this evening, Isabelle and I decided to make <a href="http://ieatcupcakes.com/mint-cookies-n-cream-cupcakes/">these</a> instead.</p>
-
-<p>[caption id=&#8221;attachment_859&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;The (not so) secret ingredient&#8221;]<a rel="attachment wp-att-859" href="http://ieatcupcakes.com/2011/05/23/ode-to-maggie-mudd/cookiesncream1/"><img class="size-medium wp-image-859" title="extract" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cookiesncream1-510x381.jpg" alt="" width="510" height="381" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_860&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;Icing before adding cookie crumbs&#8221;]<a rel="attachment wp-att-860" href="http://ieatcupcakes.com/2011/05/23/ode-to-maggie-mudd/cookiesncream2/"><img class="size-medium wp-image-860" title="cookiesncream2" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cookiesncream2-510x382.jpg" alt="" width="510" height="382" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_861&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;Icing with cookie crumbs being added&#8221;]<a rel="attachment wp-att-861" href="http://ieatcupcakes.com/2011/05/23/ode-to-maggie-mudd/cookiesncream3/"><img class="size-medium wp-image-861" title="mint icing" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cookiesncream3-510x382.jpg" alt="" width="510" height="382" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_862&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;mint cookies n cream icing&#8221;]<a rel="attachment wp-att-862" href="http://ieatcupcakes.com/2011/05/23/ode-to-maggie-mudd/cookiesncream4/"><img class="size-medium wp-image-862" title="mint cookies n cream icing" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cookiesncream4-510x382.jpg" alt="" width="510" height="382" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_863&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;Mint cookies n cream cupcakes&#8221;]<a rel="attachment wp-att-863" href="http://ieatcupcakes.com/2011/05/23/ode-to-maggie-mudd/cookiesncream5/"><img class="size-medium wp-image-863" title="mint cookies n cream cupcakes" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cookiesncream5-510x382.jpg" alt="" width="510" height="382" /></a>[/caption]</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Vegan Cupcake & Coffee Brunch]]></title>
-    <link href="http://purplicious.github.com/blog/2011/05/21/vegan-cupcake-coffee-brunch/"/>
-    <updated>2011-05-21T00:00:00-07:00</updated>
-    <id>http://purplicious.github.com/blog/2011/05/21/vegan-cupcake-coffee-brunch</id>
-    <content type="html"><![CDATA[<p>Have you ever thought to yourself, &#8220;I have the best friends in the entire world?&#8221; Well, you would be wrong, because my friends are the best in the whole world, making yours second best. That&#8217;s how ranking works. I know this because I recently started using the rank function in excel for our coffee club at work. I have also learned that if two kinds of coffee have the same ranking (and therefore are tied), then the following ranking skips a number. So, I believe that currently the peaberry from bluebottle and the hair bender from stumptown are in a tie for position 2. That means that the next highest score is ranked 4. Mhm. I&#8217;m basically the ranking expert, so unless you are part of my friend circle, you cannot possible have better friends than the ones I have. And why are my friends so awesome, you ask? Besides the obvious reasons (including their cute factor, their ability-to-put-up-with-me factor, and their fun factor), they also happen to know how to plan the most amazing events! Last weekend is a prime example of this unprecedented skill of theirs. Last weekend, they planned the most amazing of all amazing brunches ever&#8230;.</p>
-
-<p>Vegan Cupcake and Coffee Brunch! You might think that this is not much of a feat, considering there&#8217;s no &#8220;real&#8221; food involved, but considering I am the only vegan in the group, and that this was the first attempt at vegan baking for many of them (first attempt at any baking for one of them), this was basically the best thing ever!</p>
-
-<p>When Amber heard about the cupcake brunch, she suggested there may be too much sweet for one brunch, so Pam and I responded to her concern with pizza cupcakes and spinach and mushroom quiche cupcakes with sun-dried tomato cream cheese icing, in an (inane) effort to have a healthy option.</p>
-
-<p>[caption id=&#8221;attachment_826&#8221; align=&#8221;alignnone&#8221; width=&#8221;340&#8221; caption=&#8221;Quiche Cupcakes&#8221;]<a rel="attachment wp-att-826" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-quiche/"><img class="size-medium wp-image-826" title="Quiche cupcakes" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-quiche-340x510.jpg" alt="" width="340" height="510" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_833&#8221; align=&#8221;alignnone&#8221; width=&#8221;340&#8221; caption=&#8221;Italian Sausage Pizza cupcakes&#8221;]<a rel="attachment wp-att-833" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-pizza/"><img class="size-medium wp-image-833" title="Italian Sausage Pizza cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-pizza-340x510.jpg" alt="" width="340" height="510" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_834&#8221; align=&#8221;alignnone&#8221; width=&#8221;340&#8221; caption=&#8221;Chocolate Strawberry Shortcake cupcakes&#8221;]<a rel="attachment wp-att-834" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-strawberry/"><img class="size-medium wp-image-834" title="Chocolate Strawberry Shortcake cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-strawberry-340x510.jpg" alt="" width="340" height="510" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_832&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;Banana Split cupcakes&#8221;]<a rel="attachment wp-att-832" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-banana/"><img class="size-medium wp-image-832" title="Banana Split cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-banana-510x340.jpg" alt="" width="510" height="340" /></a>[/caption]</p>
-
-<p><a rel="attachment wp-att-837" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch/"><img class="alignnone size-medium wp-image-837" title="Cupcakes!" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-510x340.jpg" alt="" width="510" height="340" /></a></p>
-
-<p>Thanks to Eidelyn for being the talented event photographer, as usual. We started the brunch by each eating one of the cupcakes we made ourselves. Don&#8217;t ask how many more we ate after that.</p>
-
-<p>[caption id=&#8221;attachment_845&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;Robin with her quiche cupcake&#8221;]<a rel="attachment wp-att-845" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-robin/"><img class="size-medium wp-image-845" title="Robin with her quiche cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-robin-510x340.jpg" alt="" width="510" height="340" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_844&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;Tara with her gingerbread cupcake&#8221;]<a rel="attachment wp-att-844" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-tara/"><img class="size-medium wp-image-844" title="Tara with her gingerbread cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-tara-510x340.jpg" alt="" width="510" height="340" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_843&#8221; align=&#8221;alignnone&#8221; width=&#8221;340&#8221; caption=&#8221;Pamela with her pizza cupcake&#8221;]<a rel="attachment wp-att-843" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-pamela/"><img class="size-medium wp-image-843" title="Pamela with her pizza cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-pamela-340x510.jpg" alt="" width="340" height="510" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_842&#8221; align=&#8221;alignnone&#8221; width=&#8221;340&#8221; caption=&#8221;Jocelyn with her breakfast cupcake*&#8221;]<a rel="attachment wp-att-842" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-jocelyn/"><img class="size-medium wp-image-842" title="Jocelyn with her breakfast cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-jocelyn-340x510.jpg" alt="" width="340" height="510" /></a>[/caption]</p>
-
-<p>*Breakfast cupcake = Pancake cupcake with maple syrup icing and bacon pieces on top</p>
-
-<p>[caption id=&#8221;attachment_841&#8221; align=&#8221;alignnone&#8221; width=&#8221;340&#8221; caption=&#8221;Jessica with her mochi cupcake*&#8221;]<a rel="attachment wp-att-841" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-jessica/"><img class="size-medium wp-image-841" title="Jessica with her mochi cupcake*" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-jessica-340x510.jpg" alt="" width="340" height="510" /></a>[/caption]</p>
-
-<p>*Mochi cupcake = Matcha green tea cupcake with red bean icing</p>
-
-<p>[caption id=&#8221;attachment_840&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;Emily with her chocolate strawberry shortcake cupcake&#8221;]<a rel="attachment wp-att-840" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-emily/"><img class="size-medium wp-image-840" title="Emily with her chocolate strawberry shortcake cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-emily-510x340.jpg" alt="" width="510" height="340" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_838&#8221; align=&#8221;alignnone&#8221; width=&#8221;340&#8221; caption=&#8221;Amber with her coconut curry cupcake&#8221;]<a rel="attachment wp-att-838" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-amber/"><img class="size-medium wp-image-838" title="Amber with her coconut curry cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-amber-340x510.jpg" alt="" width="340" height="510" /></a>[/caption]</p>
-
-<p>[caption id=&#8221;attachment_839&#8221; align=&#8221;alignnone&#8221; width=&#8221;510&#8221; caption=&#8221;Eidelyn with her banana split cupcake*&#8221;]<a rel="attachment wp-att-839" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-eidelyn/"><img class="size-medium wp-image-839" title="Eidelyn with her banana split cupcake" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-eidelyn-510x340.jpg" alt="" width="510" height="340" /></a>[/caption]</p>
-
-<p>*Yes, she always matches her cupcakes. And here was our attempt at setting the timer on the camera.</p>
-
-<p><a rel="attachment wp-att-846" href="http://ieatcupcakes.com/2011/05/21/vegan-cupcake-coffee-brunch/cupcake-brunch-group/"><img class="alignnone size-medium wp-image-846" title="Cupcake girls" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/cupcake-brunch-group-510x340.jpg" alt="" width="510" height="340" /></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Am I part lion?]]></title>
-    <link href="http://purplicious.github.com/blog/2011/05/10/am-i-part-lion/"/>
-    <updated>2011-05-10T00:00:00-07:00</updated>
-    <id>http://purplicious.github.com/blog/2011/05/10/am-i-part-lion</id>
-    <content type="html"><![CDATA[<p><a rel="attachment wp-att-809" href="http://ieatcupcakes.com/2011/05/10/am-i-part-lion/print-2/" target="_blank"><img class="alignnone size-full wp-image-809" title="Lion" src="http://ieatcupcakes.com/wp-content/uploads/2011/05/lion-cupcake-baker1.jpg" alt="" width="395" height="820" /></a></p>
-
-<p>If I could trade all the <a href="http://hipster-animals.tumblr.com/" target="_blank">hipsters</a> in the mission for these cartoon vegan cupcake baking lions, I would do it in a heartbeat!</p>
 ]]></content>
   </entry>
   

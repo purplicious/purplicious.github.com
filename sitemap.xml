@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://purplicious.github.com/blog/2009/09/28/about/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://purplicious.github.com/blog/2009/09/28/hello-world/</loc>
         <lastmod>2012-06-16T14:27:58-07:00</lastmod>
     </url>
     <url>
         <loc>http://purplicious.github.com/blog/2009/09/29/cupcake-themed-party/</loc>
         <lastmod>2012-06-16T14:27:58-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://purplicious.github.com/blog/2009/09/29/red-velvet-recipe/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
     </url>
     <url>
         <loc>
@@ -133,6 +141,10 @@
         <lastmod>2012-06-16T14:27:58-07:00</lastmod>
     </url>
     <url>
+        <loc>http://purplicious.github.com/blog/2011/01/02/e-t-cupcake-recipe/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://purplicious.github.com/blog/2011/01/02/fun-a-day-2/</loc>
         <lastmod>2012-06-16T14:27:58-07:00</lastmod>
     </url>
@@ -159,6 +171,12 @@
     <url>
         <loc>http://purplicious.github.com/blog/2011/01/08/fun-a-day-8/</loc>
         <lastmod>2012-06-16T14:27:58-07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://purplicious.github.com/blog/2011/01/08/voodoo-ronalds-donut-cupcakes-recipe/
+        </loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://purplicious.github.com/blog/2011/01/09/fun-a-day-9/</loc>
@@ -191,6 +209,10 @@
     <url>
         <loc>http://purplicious.github.com/blog/2011/01/15/fun-a-day-15/</loc>
         <lastmod>2012-06-16T14:27:58-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://purplicious.github.com/blog/2011/01/16/butterfinger-cupcakes-recipe/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://purplicious.github.com/blog/2011/01/16/fun-a-day-16/</loc>
@@ -303,8 +325,16 @@
         <lastmod>2012-06-16T14:27:59-07:00</lastmod>
     </url>
     <url>
+        <loc>http://purplicious.github.com/blog/2011/04/10/chocolate-cupcakes/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://purplicious.github.com/blog/2011/04/10/engagements-with-cupcakes/</loc>
         <lastmod>2012-06-16T14:27:59-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://purplicious.github.com/blog/2011/04/10/vanilla-buttercream-icing/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
     </url>
     <url>
         <loc>
@@ -315,6 +345,10 @@
     <url>
         <loc>http://purplicious.github.com/blog/2011/04/27/i-think-of-you-when-i-clean/</loc>
         <lastmod>2012-06-16T14:27:59-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://purplicious.github.com/blog/2011/04/30/allergen-free-cupcakes/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://purplicious.github.com/blog/2011/05/05/organic-wheat-flour-at-costco/</loc>
@@ -333,6 +367,10 @@
     <url>
         <loc>http://purplicious.github.com/blog/2011/05/21/vegan-cupcake-coffee-brunch/</loc>
         <lastmod>2012-06-16T14:27:59-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://purplicious.github.com/blog/2011/05/23/mint-cookies-n-cream-cupcakes/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://purplicious.github.com/blog/2011/05/23/ode-to-maggie-mudd/</loc>
@@ -369,8 +407,16 @@
         <lastmod>2012-06-16T14:27:59-07:00</lastmod>
     </url>
     <url>
+        <loc>http://purplicious.github.com/blog/2011/07/09/carrot-cupcakes-recipe/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://purplicious.github.com/blog/2011/07/10/renegade-craft-fair-summer-2011/</loc>
         <lastmod>2012-06-16T14:27:59-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://purplicious.github.com/blog/2011/07/10/tropical-cupcakes/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://purplicious.github.com/blog/2011/08/15/cupcakecamp/</loc>
@@ -413,11 +459,15 @@
         <lastmod>2012-06-16T14:28:00-07:00</lastmod>
     </url>
     <url>
+        <loc>http://purplicious.github.com/blog/2012/05/27/pina-colada-cupcakes/</loc>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://purplicious.github.com/blog/archives/</loc>
-        <lastmod>2012-06-16T14:28:00-07:00</lastmod>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://purplicious.github.com/</loc>
-        <lastmod>2012-06-16T14:28:00-07:00</lastmod>
+        <lastmod>2012-06-16T15:04:18-07:00</lastmod>
     </url>
 </urlset>
