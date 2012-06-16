@@ -1,0 +1,6 @@
+---
+layout: post
+comment: true
+title: "January is national (translates to: in my house) cupcake month"
+---
+So...what January actually is is <a href="http://www.artclash.com/" target="_blank">fun-a-day</a> month. If you haven't heard of this, it's basically where you take your already too-busy life and add deadline-intensive activities to each day of an entire month. Sounds fun right? No? Well, I probably just didn't describe it in the right light. What fun-a day means to each person is different, but for me, it means that each and every day in January, I will participate in some cupcake-related activity and I will document it daily here. So, for those of you who are used to me only posting once every other month, watchout! Prepare to be inundated with photos, ravings, and complaints about this "art" project. If you would like to subject yourself to this punishment-a-day, please read more <a href="http://www.artclash.com/" target="_blank">here</a> and signup. And then give me moral support that I'm not in this alone. So...tomorrow is my last day of freedom-from-cupcake-activities. My goal for tomorrow is to not drink so much that I fail at this art project on day 1. I want to at least make it to day 3 before failure sets in.
