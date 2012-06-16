@@ -1,0 +1,7 @@
+Dir.glob("_posts/*.md").each do |post|
+  content = File.read(post)
+  images = content.scan(%r{(http://ieatcupcakes.com/.+\.jpg|png|jpeg)}m)
+  images.flatten.each do |image|
+    `curl -O #{image}`
+  end
+end
