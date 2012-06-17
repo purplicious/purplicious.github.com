@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Purplicious Cupcakes]]></title>
   <link href="http://purplicious.github.com/atom.xml" rel="self"/>
   <link href="http://purplicious.github.com/"/>
-  <updated>2012-06-16T15:06:02-07:00</updated>
+  <updated>2012-06-16T19:10:07-07:00</updated>
   <id>http://purplicious.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Robin]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
