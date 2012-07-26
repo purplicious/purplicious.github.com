@@ -1,0 +1,11 @@
+---
+layout: default
+title: I eat cupcakes
+---
+{% assign first_post = site.posts.first %}
+<div id="post">
+  <h2><a href="{{ first_post.url }}">{{ first_post.title }}</a></h2>
+  <div id="date">published {{ first_post.date | date:'%b %d, %Y' }}</div>
+  {{ first_post.content }}
+  <div id="comments"><a id="more" href="{{ first_post.url }}#disqus">Comments &raquo;</a></div>
+</div>
