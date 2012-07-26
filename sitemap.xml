@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://purplicious.github.com/blog/2009/09/28/about/</loc>
+        <lastmod>2012-07-24T22:42:22-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://purplicious.github.com/blog/2009/09/28/hello-world/</loc>
+        <lastmod>2012-07-24T22:42:22-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://purplicious.github.com/blog/2009/09/29/cupcake-themed-party/</loc>
         <lastmod>2012-06-16T14:27:58-07:00</lastmod>
     </url>
@@ -460,10 +468,10 @@
     </url>
     <url>
         <loc>http://purplicious.github.com/blog/archives/</loc>
-        <lastmod>2012-07-24T00:17:43-07:00</lastmod>
+        <lastmod>2012-07-24T22:42:22-07:00</lastmod>
     </url>
     <url>
         <loc>http://purplicious.github.com/</loc>
-        <lastmod>2012-07-24T00:17:43-07:00</lastmod>
+        <lastmod>2012-07-24T22:42:22-07:00</lastmod>
     </url>
 </urlset>
