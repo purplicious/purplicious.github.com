@@ -65,6 +65,10 @@ a:hover {
   color:#47475E;
 }
 
+img {
+  max-width: 800px;
+}
+
 .site footer {
    font-size: 80%;
    color: #47475E;
