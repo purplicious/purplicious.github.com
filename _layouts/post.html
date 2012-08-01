@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div id="post">
+  <h2><a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h2>
+  <article>
+  <div id="date">published <time datetime="{{ page.date }}" pubdate>{{ page.date | date:'%b %d, %Y' }}</time></div>
+    {{ content }}
+  </article>
+  <hr />
+</div>

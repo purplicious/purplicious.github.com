@@ -1,0 +1,10 @@
+---
+layout: post
+comment: true
+title: "About"
+---
+This site serves 2 purposes.
+
+1.  I'm starting this off with the default wordpress template, but behind the scene, this is actually a site I'm using to learn how to create a wordpress template from scratch.  It will likely take awhile and so if you visit this site at night and it looks broken, it's me working on the new template.  Until I have it to a point where it works, I will be returning it to the default template during the days.
+
+2.  To give me an excuse to be a piggy and eat lots of vegan cupcakes.
