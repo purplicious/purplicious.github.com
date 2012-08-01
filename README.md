@@ -8,7 +8,9 @@
 
 2. Add new images under `static/images`. Don't forget to use the same path when you link them in your posts. For instance:
 
-    <a href="static/images/purple_heart.jpg>Purple heart</a>
+```
+<a href="static/images/purple_heart.jpg">Purple heart</a>
+```
 
 3. Run the local server to verify the post looks good:
 
