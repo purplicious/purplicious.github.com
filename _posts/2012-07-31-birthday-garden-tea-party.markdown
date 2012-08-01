@@ -21,7 +21,7 @@ In addition to the wide variety of human friends in attendance, I was also bless
 
 <p><img src="static/images/EmilyAndDoll.jpg" /></p>
 
-<p><img src="static/images/JessicaAndPam.jpg" /></p>
+<p><img src="static/images/JessicaAndPam.JPG" /></p>
 
 <p><img src="static/images/JennAndJessica.jpg" /></p>
 
