@@ -56,15 +56,15 @@ Another requirement of tea parties that nobody informed me of before this one is
 
 <p><img src="static/images/nails.jpg" /></p>
 
-<p><img src="static/images/JessicaAndPam.jpg" /></p>
+<p><img src="static/images/JessicaAndPam.JPG" /></p>
 
-<p><img src="static/images/JennAndJessica.jpg" /></p>
+<p><img src="static/images/JennAndJessica.JPG" /></p>
 
 <p><img src="static/images/isabelle.jpg" /></p>
 
 In addition to the wide variety of homosapien friends in attendance, I was also blessed by the presence of another species of visitor.
 
-<p><img src="static/images/CandyHearts.jpg" /></p>
+<p><img src="static/images/CandyHearts.JPG" /></p>
 
 <p><img src="static/images/doll1.jpg" /></p>
 
@@ -74,11 +74,11 @@ The Virginia-Lulu duo were the masterminds behind the purple teapot pinata. Befo
 
 <p><img src="static/images/RobinPinata.jpg" /></p>
 
-<p><img src="static/images/IsabellePinata.jpg" /></p>
+<p><img src="static/images/IsabellePinata.JPG" /></p>
 
-<p><img src="static/images/AmberPinata.jpg" /></p>
+<p><img src="static/images/AmberPinata.JPG" /></p>
 
-<p><img src="static/images/JessicaPinata.jpg" /></p>
+<p><img src="static/images/JessicaPinata.JPG" /></p>
 
 We managed to remember to get a picture of everyone before they trickled off into the <a href="http://www.flickr.com/photos/chocolatecupcakes/7238247622" target="_blank">solar eclipse</a>, but one person may have changed out of their tea-party-outfit and into their eclipse-outfit a little bit too quickly for us.
 
