@@ -9,10 +9,10 @@ Following the rule that everyone who has ever known me knows about birthdays, I 
 
 Here's a time-series photo montage of Isabelle decorating the cake.
 
-<p><img src="static/images/isabelle-collage.jpg" /></p>
+<p><img src="/static/images/isabelle-collage.jpg" /></p>
 
 The short lifespan of the cake before it was devoured.
 
-<p><img src="static/images/pina-colada.jpg" height="500" /></p>
-<p><img src="static/images/pina-colada-w-candles.jpg" /></p>
-<p><img src="static/images/pina-colada-wishes.jpg" /></p>
+<p><img src="/static/images/pina-colada.jpg" height="500" /></p>
+<p><img src="/static/images/pina-colada-w-candles.jpg" /></p>
+<p><img src="/static/images/pina-colada-wishes.jpg" /></p>
